@@ -1,1 +1,1 @@
-*** Homework from the VK course and additional tasks by Anatoliy Karpovich 
+### Homework from the VK course and additional tasks by Anatoliy Karpovich 
